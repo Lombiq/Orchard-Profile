@@ -1,9 +1,9 @@
 Name: Profile
 AntiForgery: enabled
 Author: André Rodrigues, Sébastien Ros
-Website: http://orchardproject.net
+Website: https://orchardprofile.codeplex.com/SourceControl/network/forks/Piedone/Orchard1xCompatibility
 Version: 1.2
-OrchardVersion: 1.0
+OrchardVersion: 1.8
 Description: Adds a set of functionalities to display and edit users' profile.
 Features:
     Contrib.Profile:
