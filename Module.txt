@@ -1,13 +1,13 @@
 Name: Profile
 AntiForgery: enabled
 Author: André Rodrigues, Sébastien Ros
-Website: https://orchardprofile.codeplex.com/SourceControl/network/forks/Piedone/Orchard1xCompatibility
+Website: https://bitbucket.org/Lombiq/orchard-contrib-profile
 Version: 1.2
 OrchardVersion: 1.9.0
 Description: Adds a set of functionalities to display and edit users' profile.
 Features:
-    Contrib.Profile:
+	Contrib.Profile:
 		Name: Profile
-        Description: Adds a set of functionalities to display and edit users' profile.
-        Category: Social
-        Dependencies: Orchard.Users
+		Description: Adds a set of functionalities to display and edit users' profile.
+		Category: Social
+		Dependencies: Orchard.Users
