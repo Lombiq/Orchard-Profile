@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Andr� Rodrigues, S�bastien Ros
 Website: https://bitbucket.org/Lombiq/orchard-contrib-profile
 Version: 1.2
-OrchardVersion: 1.9.2
+OrchardVersion: 1.9.3
 Description: Adds a set of functionalities to display and edit users' profile.
 Features:
 	Contrib.Profile:
